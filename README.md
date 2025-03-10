@@ -45,7 +45,7 @@
 - **Email:**
   - `matvej.safrankov@gmail.com`
 - **LinkedIn:**
-  - [safmatte](www.linkedin.com/in/safmatte)
+  - [safmatte](https://www.linkedin.com/in/safmatte/)
 - **GitHub:**
   - [GlycerolVeinz](https://github.com/GlycerolVeinz)
 - **Location:**
