@@ -145,6 +145,7 @@
 
 - **Technologies:**
   - PostgreSQL
+  - MongoDB
 
 ### Operating Systems & Platforms
 
