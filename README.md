@@ -51,6 +51,13 @@
 - **Location:**
   - Prague, Czech Republic
 
+## Work experience
+
+### Etyka digital
+  - *time-period:* April 2025 - Now
+  - *position:* Java Back-End developer
+  - *website:* [etyka.cz](https://etyka.cz/)
+
 ## Other Work Experience
 
 - **KFC**
@@ -80,6 +87,7 @@
   - C / C++
   - Python
   - SQL
+  - Kotlin (Started)
 
 - **Paradigms:**
   - Object-Oriented Programming (OOP)
@@ -103,10 +111,17 @@
   - Networking
   - Computer Architecture
 
-### Frameworks & Libraries
+### Frameworks, Libraries, Tools
 
+- Spring
 - Spring Boot
-- JPA
+- JPA (Hibernate)
+- RabbitMQ
+- Rest
+- Spring-AI
+- MapStruct
+- Lombok
+- FlyWay
 
 ### Testing & Quality Assurance
 
@@ -124,42 +139,34 @@
 
 ### Markup & Documentation
 
-- **Markup Languages & Diagramming:**
-  - Markdown
-  - Mermaid
+- Markdown
+- Mermaid
 
 ### IDEs & Editors
 
-- **Tools:**
-  - Microsoft Visual Studio Code
-  - IntelliJ IDEA, CLion
+- Microsoft Visual Studio Code
+- IntelliJ IDEA, CLion
+- Enterprise Architect 
 
 ### Version Control
 
-- **Tools:**
-  - Git
-  - GitHub
-  - GitLab
+- Git
+- GitHub
+- GitLab
 
 ### Databases
 
 - **Technologies:**
   - PostgreSQL
-  - MongoDB
+  - SQL lite
+  - MongoDB (Started)
 
 ### Operating Systems & Platforms
 
-- **OS:**
-  - Linux
-  - Ubuntu
-  - Windows
-
-### Productivity Tools
-
-- **Microsoft Office:**
-  - Microsoft PowerPoint
-  - Microsoft Excel
-  - Microsoft Word
+- Linux
+- Ubuntu
+- PopOs!
+- Windows
 
 ### Languages (Human)
 
@@ -167,6 +174,38 @@
 - Czech(Native)
 - Russian(Fluent)
 - French(Beginner)
+
+## Projects
+
+### Nerligo
+
+- **Project for:**
+  - [Etyka](#etyka-digital)
+- **Description:**
+  - A website/app for schools
+  - uses AI for streamlining exam reviews
+  - handles the basic administration for a school
+- **Products website**
+  - [nerligo.cz](https://www.nerligo.cz/)
+- **Worked on:**
+  - **AI-module**
+    - Creating prompts for AIs
+    - Processes of exam evaluation through AI
+  - **API-module**
+    - everything apart from basic account creation and file system
+  - **framework**
+    - *Comgate* integration
+
+### SportyBe
+
+- **Project for:**
+  - [Etyka](#etyka-digital)
+- **Description:**
+  - A website that manages everything that sports-ground might need
+- **Product website:**
+  - [sportybe.com](https://sportybe.com/)
+- **Worked on:**
+  - statistics for partners (sportsground admins)
 
 ## Learning Projects
 
@@ -260,21 +299,4 @@
   - JPA
 - **GitHub:**
   - [Music's Store database](https://github.com/GlycerolVeinz/DBS/tree/main/musicStoreSemestral)
- 
 
-
-
-<!--
-**GlycerolVeinz/GlycerolVeinz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
