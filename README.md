@@ -57,7 +57,7 @@
 ## Work experience
 
 ### Etyka digital
-  - *time-period:* April 2025 - Now
+  - *time-period:* Nov 2024 - Nov 2025
   - *position:* Java Back-End developer
   - *website:* [etyka.cz](https://etyka.cz/)
 
