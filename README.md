@@ -4,12 +4,13 @@
 
 - [About me](#about-me)
 - [Contact Information](#contact-information)
+- [Work experience](#work-experience)
 - [Other Work Experience](#other-work-experience)
 - [Education](#education)
 - [Skills Categorization](#skills-categorization)
   - [Programming Languages & Paradigms](#programming-languages--paradigms)
   - [Software Development Processes & Architecture](#software-development-processes--architecture)
-  - [Frameworks & Libraries](#frameworks--libraries)
+  - [Frameworks, Libraries, Tools](#frameworks-libraries-tools)
   - [Testing & Quality Assurance](#testing--quality-assurance)
   - [Build & Automation Tools](#build--automation-tools)
   - [Markup & Documentation](#markup--documentation)
@@ -17,8 +18,10 @@
   - [Version Control](#version-control)
   - [Databases](#databases)
   - [Operating Systems & Platforms](#operating-systems--platforms)
-  - [Productivity Tools](#productivity-tools)
   - [Languages (Human)](#languages-human)
+- [Projects](#projects)
+  - [Nerligo](#nerligo)
+  - [SportyBe](#sportybe)
 - [Learning Projects](#learning-projects)
   - [GoblinOverflow](#goblinoverflow)
   - [TCP communicator](#tcp-communicator)
@@ -111,7 +114,7 @@
   - Networking
   - Computer Architecture
 
-### Frameworks, Libraries, Tools
+### Frameworks Libraries Tools
 
 - Spring
 - Spring Boot
@@ -177,6 +180,8 @@
 
 ## Projects
 
+> These are the projects I have worked on either professionally.
+
 ### Nerligo
 
 - **Project for:**
@@ -208,6 +213,8 @@
   - statistics for partners (sportsground admins)
 
 ## Learning Projects
+
+> These are projects I have worked on to learn new technologies and improve my skills (mostly during my CTU studies).
 
 ### GoblinOverflow
 
