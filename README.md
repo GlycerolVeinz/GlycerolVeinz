@@ -1,309 +1,101 @@
-# Curriculum vitae
+# Matvej Safrankov
 
-## List of Contents
+Java Back-End Developer • Prague, Czech Republic  
+Also a musician/songwriter (drums)
 
-- [About me](#about-me)
-- [Contact Information](#contact-information)
-- [Work experience](#work-experience)
-- [Other Work Experience](#other-work-experience)
-- [Education](#education)
-- [Skills Categorization](#skills-categorization)
-  - [Programming Languages & Paradigms](#programming-languages--paradigms)
-  - [Software Development Processes & Architecture](#software-development-processes--architecture)
-  - [Frameworks, Libraries, Tools](#frameworks-libraries-tools)
-  - [Testing & Quality Assurance](#testing--quality-assurance)
-  - [Build & Automation Tools](#build--automation-tools)
-  - [Markup & Documentation](#markup--documentation)
-  - [IDEs & Editors](#ides--editors)
-  - [Version Control](#version-control)
-  - [Databases](#databases)
-  - [Operating Systems & Platforms](#operating-systems--platforms)
-  - [Languages (Human)](#languages-human)
-- [Projects](#projects)
-  - [Nerligo](#nerligo)
-  - [SportyBe](#sportybe)
-- [Learning Projects](#learning-projects)
-  - [GoblinOverflow](#goblinoverflow)
-  - [TCP communicator](#tcp-communicator)
-  - [Tests for `Booking.com`](#tests-for-bookingcom)
-  - [Smart Factory Simulation](#smart-factory-simulation)
-  - [SVGen interpreter](#svgen-interpreter)
-  - [Prime factorization](#prime-factorization)
-  - [Software engineering exam](#software-engineering-exam)
-  - [Music's Store database](#musics-store-database)
+- LinkedIn: https://www.linkedin.com/in/safmatte/
+- GitHub: https://github.com/GlycerolVeinz
+- Email: matvej.safrankov@gmail.com
 
-## Matvej Safrankov
+---
 
-### About me
+## Contents
+- [Matvej Safrankov](#matvej-safrankov)
+  - [Contents](#contents)
+  - [About](#about)
+  - [Work experience](#work-experience)
+    - [Etyka digital — Java Back-End Developer](#etyka-digital--java-back-end-developer)
+  - [Projects](#projects)
+    - [Nerligo](#nerligo)
+    - [SportyBe](#sportybe)
+  - [Education](#education)
+    - [Czech Technical University in Prague (CTU), Faculty of Electrical Engineering](#czech-technical-university-in-prague-ctu-faculty-of-electrical-engineering)
+    - [Gymnázium na Vítězné Pláni (Prague)](#gymnázium-na-vítězné-pláni-prague)
+  - [Skills](#skills)
+  - [Learning projects](#learning-projects)
 
-> Eager to leverage my technical skills in a dynamic professional environment.
-> I am passionate about delving into the details to uncover the fundamental principles that drive technology
-> and am actively seeking opportunities where I can fully apply and further expand my expertise.
-> Additionally, I'm an active musician and songwriter who enjoys playing drums.
+---
 
-## Contact Information
+## About
 
-- **Telephone:**
-  - `+420 775 442 928`
-- **Email:**
-  - `matvej.safrankov@gmail.com`
-- **LinkedIn:**
-  - [safmatte](https://www.linkedin.com/in/safmatte/)
-- **GitHub:**
-  - [GlycerolVeinz](https://github.com/GlycerolVeinz)
-- **Location:**
-  - Prague, Czech Republic
+Eager to leverage strong backend skills in a dynamic environment.  
+Enjoys digging into details to understand fundamental principles behind technology, and continuously expanding expertise.  
+Active musician and songwriter; plays drums.
 
 ## Work experience
 
-### Etyka digital
-  - *time-period:* Nov 2024 - Nov 2025
-  - *position:* Java Back-End developer
-  - *website:* [etyka.cz](https://etyka.cz/)
+### Etyka digital — Java Back-End Developer
+_Nov 2024 – Nov 2025_ • https://etyka.cz/
 
-## Other Work Experience
-
-- **KFC**
-  - August 2018 - November 2018
-- **Costa Coffee**
-  - January 2019 - December 2021
-- **Shameless**
-  - May 2022 - December 2024
-
-## Education
-
-- **Czech Technical University in Prague, Faculty of Electrical Engineering**
-  - Bachelors Undergraduate
-  - Field of Study: Open Informatics
-  - Specialization: Software
-  - September 2022 - February 2025
-
-- **Gymnázium na Vítězné Pláni, Prague, Czech Republic**
-  - 2015 - 2021
-
-## Skills Categorization
-
-### Programming Languages & Paradigms
-
-- **Languages:**
-  - Java
-  - C / C++
-  - Python
-  - SQL
-  - Kotlin (Started)
-
-- **Paradigms:**
-  - Object-Oriented Programming (OOP)
-  - Procedural Programming
-  - Functional Programming
-  - General Programming
-
-### Software Development Processes & Architecture
-
-- **Processes/Methodologies:**
-  - Software Development Life Cycle (SDLC)
-- **Modeling & Design:**
-  - Software Architecture
-  - Unified Modeling Language (UML)
-  - Software Design Patterns
-  - Algorithms
-- **Systems:**
-  - Distributed Systems
-  - Parallel Programming
-  - OpenMP
-  - Networking
-  - Computer Architecture
-
-### Frameworks Libraries Tools
-
-- Spring
-- Spring Boot
-- JPA (Hibernate)
-- RabbitMQ
-- Rest
-- Spring-AI
-- MapStruct
-- Lombok
-- FlyWay
-
-### Testing & Quality Assurance
-
-- **Testing Frameworks:**
-  - JUnit
-  - Mockito
-  - Selenium Testing
-  - Software Testing
-
-### Build & Automation Tools
-
-- Maven
-- CMake
-- GNU Make
-
-### Markup & Documentation
-
-- Markdown
-- Mermaid
-
-### IDEs & Editors
-
-- Microsoft Visual Studio Code
-- IntelliJ IDEA, CLion
-- Enterprise Architect 
-
-### Version Control
-
-- Git
-- GitHub
-- GitLab
-
-### Databases
-
-- **Technologies:**
-  - PostgreSQL
-  - SQL lite
-  - MongoDB (Started)
-
-### Operating Systems & Platforms
-
-- Linux
-- Ubuntu
-- PopOs!
-- Windows
-
-### Languages (Human)
-
-- English(Fluent)
-- Czech(Native)
-- Russian(Fluent)
-- French(Beginner)
+- Built and maintained backend services and APIs in Spring/Spring Boot.
+- Contributed to AI-assisted exam review workflows (prompting + evaluation logic).
+- Implemented integrations (incl. Comgate).
 
 ## Projects
 
-> These are the projects I have worked on either professionally.
-
 ### Nerligo
+Product: https://www.nerligo.cz/  
+For: Etyka digital  
+Website/app for schools: administration + AI streamlining for exam reviews.
 
-- **Project for:**
-  - [Etyka](#etyka-digital)
-- **Description:**
-  - A website/app for schools
-  - uses AI for streamlining exam reviews
-  - handles the basic administration for a school
-- **Products website**
-  - [nerligo.cz](https://www.nerligo.cz/)
-- **Worked on:**
-  - **AI-module**
-    - Creating prompts for AIs
-    - Processes of exam evaluation through AI
-  - **API-module**
-    - everything apart from basic account creation and file system
-  - **framework**
-    - *Comgate* integration
+**What I worked on**
+- AI module: Prompting + exam evaluation workflows.
+- API module: Most backend work excluding basic account creation and filesystem.
+- Integration: Comgate.
 
 ### SportyBe
+Product: https://sportybe.com/  
+For: Etyka digital  
+Platform for managing sports-ground operations.
 
-- **Project for:**
-  - [Etyka](#etyka-digital)
-- **Description:**
-  - A website that manages everything that sports-ground might need
-- **Product website:**
-  - [sportybe.com](https://sportybe.com/)
-- **Worked on:**
-  - statistics for partners (sportsground admins)
+**What I worked on**
+- Partner statistics features for sportsground administrators.
 
-## Learning Projects
+## Education
 
-> These are projects I have worked on to learn new technologies and improve my skills (mostly during my CTU studies).
+### Czech Technical University in Prague (CTU), Faculty of Electrical Engineering
+_Bachelor’s (Undergraduate)_ • Open Informatics • Specialization: Software  
+_Sep 2022 – Feb 2025_
 
-### GoblinOverflow
+### Gymnázium na Vítězné Pláni (Prague)
+_2015 – 2021_
 
-- **Description:**
-  - A java game/simmulation of goblin dungeon
-- **Learning objectives:**
-  - Java Swing
-  - Java AWT
-  - MVC architecture (Model-View-Controller)
-- **GitHub:**
-  - [GoblinOverflow](https://github.com/GlycerolVeinz/PJV_semestral/tree/master)
+## Skills
 
-### TCP communicator
+- **Languages:** Java, C/C++, Python, SQL, Kotlin (started)
+- **Backend:** Spring, Spring Boot, JPA (Hibernate), REST, RabbitMQ, Flyway, MapStruct, Lombok, Spring AI
+- **Testing:** JUnit, Mockito, Selenium
+- **Databases:** PostgreSQL, SQLite, MongoDB (started)
+- **Tools:** Git, GitHub, GitLab, Maven, CMake, GNU Make
+- **Modeling/CS:** UML, design patterns, algorithms, distributed systems, networking, OpenMP
+- **OS:** Linux (Ubuntu, Pop!_OS), Windows
+- **Human languages:** Czech (native), English (fluent), Russian (fluent), French (beginner)
 
-- **Description:**
-  - A Python application that implements a reliable file transfer using UDP, while incomporating reliablity tequniques typical for TCP
-- **Learning objectives:**
-  - Python
-  - UDP
-- **GitHub:**
-  - [TCP communicator](https://github.com/GlycerolVeinz/psia_udp/tree/selective_repeat)
-  
-### Tests for `Booking.com`
+## Learning projects
 
-- **Description:**
-  - A set of tests and testing enviroment for `Booking.com` website
-- **Learning objectives:**
-  - JUnit
-  - Selenium
-- **Role:**
-  - Documentation, test design, process test implementation
-- **GitHub:**
-  - [Booking.com tests](https://github.com/GlycerolVeinz/TS1_semestral)
-
-### Smart Factory Simulation
-
-- **Description:**
-  - A simulation of a smart factory, where robots and humans work together
-- **Learning objectives:**
-  - Software design patterns
-  - UML
-  - Streams
-- **GitHub:**
-  - [Smart Factory Simulation](https://github.com/GlycerolVeinz/OMO_semestral)
-
-### SVGen interpreter
-
-- **Description:**
-  - A Racket(lisp) application that interprets a custom language SVGen and generates in string SVG image format
-- **Learning objectives:**
-  - Racket
-  - Interpreters
-  - Functional programming
-- **GitHub:**
-  - [SVGen interpreter](https://github.com/GlycerolVeinz/FUP/tree/master/hw/hw02)
-
-### Prime factorization
-
-- **Description:**
-  - A C application that calculates prime factorization of a number up to 10^100 with biggest prime factor up to 10^6 in reasonable time
-- **Learning objectives:**
-  - C
-  - Algorithms
-  - Abstract data types
-- **GitHub:**
-  - [Prime factorization](https://github.com/GlycerolVeinz/PRP/tree/master/HomeWork04B)
-
-### Software engineering exam
-
-- **Description:**
-  - A Java code that gives foundation for battle simulations
-- **Examination objectives:**
-  - Java
-  - Software design patterns
-  - UML
-  - Spring boot
-  - Rest API
-  - Jpa
-- **GitHub:**
-  - [Software engineering exam](https://github.com/GlycerolVeinz/SIN_exam/tree/master)
-
-### Music's Store database
-
-- **Description:**
-  - A SQL database for fictional music store
-- **Learning objectives:**
-  - SQL
-  - Database design
-  - JPA
-- **GitHub:**
-  - [Music's Store database](https://github.com/GlycerolVeinz/DBS/tree/main/musicStoreSemestral)
-
+- **GoblinOverflow** — Java Swing/AWT + MVC  
+  https://github.com/GlycerolVeinz/PJV_semestral/tree/master
+- **TCP communicator** — Reliable file transfer over UDP  
+  https://github.com/GlycerolVeinz/psia_udp/tree/selective_repeat
+- **Tests for Booking.com** — JUnit + Selenium, test design & documentation  
+  https://github.com/GlycerolVeinz/TS1_semestral
+- **Smart Factory Simulation** — Design patterns, UML, streams  
+  https://github.com/GlycerolVeinz/OMO_semestral
+- **SVGen interpreter** — Racket interpreter generating SVG strings  
+  https://github.com/GlycerolVeinz/FUP/tree/master/hw/hw02
+- **Prime factorization** — C, algorithms, ADTs  
+  https://github.com/GlycerolVeinz/PRP/tree/master/HomeWork04B
+- **Software engineering exam** — Java foundation (patterns, UML, Spring Boot, REST, JPA)  
+  https://github.com/GlycerolVeinz/SIN_exam/tree/master
+- **Music’s Store database** — SQL + DB design (+ JPA)  
+  https://github.com/GlycerolVeinz/DBS/tree/main/musicStoreSemestral
