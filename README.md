@@ -19,7 +19,8 @@
 - [Contents](#contents)
 - [About me](#about-me)
 - [Work experience](#work-experience)
-  - [Java Developer — Etyka Digital](#java-developer--etyka-digital)
+  - [Backend Developer — Thales](#backend-developer--thales)
+  - [Java Backend Developer — Etyka Digital](#java-backend-developer--etyka-digital)
 - [Showcase projects](#showcase-projects)
   - [Nerligo](#nerligo)
   - [Sportybe](#sportybe)
@@ -28,25 +29,38 @@
 - [Personal projects](#personal-projects)
 
 ## About me
-Eager to apply my technical skills while uncovering the fundamental principles behind technology. I actively seek opportunities to apply my knowledge and expand it. Outside of work, I'm an active musician and songwriter who enjoys playing drums.
+Software engineer with hands-on experience building production-ready software. I take a fundamentals-first approach and focus on writing correct, maintainable systems. I enjoy working close to the implementation while taking ownership of architecture and technical decisions. Outside of work, I'm a drummer and songwriter.
 
 ## Work experience
 
-### Java Developer — Etyka Digital
-[![etyka.cz](https://img.shields.io/badge/etyka.cz-Visit-be9971?style=for-the-badge)](https://etyka.cz/) 
+### Backend Developer — Thales
 
-- **Nov 2024 – Nov 2025**
-- Built backend services and APIs with Spring and Spring Boot.
-- Developed AI-assisted exam-review workflows (prompting and evaluation logic).
-- Implemented integrations (including Comgate).
+- **Apr 2026 – Present**
 
 **Main responsibility:**
-> Designing and implementing Java Spring REST APIs. 
+> Leading the design and implementation of TypeScript custom nodes for a low-code IAM orchestration platform.
 
-**Further description:**
-> Developed Java Spring Boot REST APIs backed by PostgreSQL, including schema migrations with Flyway and CI integration.   
-> Delivered the core “AI exam evaluation” module to process photos of students’ handwritten tests and return automated scoring and feedback.   
-> Implemented features using a company-managed backend framework, aligning with predefined architecture patterns.   
+**Highlights:**
+- Built the TypeScript monorepo from the initial commit for **12 deployable bundles and ~47 node classes**.
+- Designed a layered node architecture for consistency and code reuse.
+- Built a compile-time type-safe API layer and standardized error handling.
+- Centralized OAuth2 token handling, Redis caching, and shared API infrastructure.
+- Established the testing strategy, including a unit test suite and platform test framework.
+- Built the GitLab CI/CD pipeline for building, testing, and promoting artifacts across environments.
+- Created project scaffolding and developer tooling to standardize development across the team.
+
+### Java Backend Developer — Etyka Digital
+[![etyka.cz](https://img.shields.io/badge/etyka.cz-Visit-be9971?style=for-the-badge)](https://etyka.cz/) 
+
+- **Oct 2024 – Oct 2025**
+
+**Main responsibility:**
+> Designing and implementing Java Spring REST APIs.
+
+**Highlights:**
+- Integrated the Comgate payment gateway with the platform's subscription system.
+- Integrated Spring AI into the application's AI module, streamlining development and improving the determinism of AI-generated results.
+- Improved the image-processing pipeline using an OpenCV Difference of Gaussians (DoG) filter, enabling more reliable exam-paper edge detection and image cropping.
 
 ## Showcase projects
 
@@ -76,36 +90,42 @@ Eager to apply my technical skills while uncovering the fundamental principles b
 
 - **Czech Technical University in Prague (CTU)**
   - Faculty of Electrical Engineering
-  - Program: Open Informatics
-  - Specialization: Software
-  - Level: Bachelor’s (Undergraduate)
+  - Open Informatics — Software specialization
+  - Bachelor's-level studies, degree not completed
 
 ## Skills
 
 <p align="center">
   <img alt="Java" src="https://img.shields.io/badge/Java-be9971?style=for-the-badge&logo=openjdk&logoColor=black" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-be9971?style=for-the-badge&logo=typescript&logoColor=black" />
   <img alt="Spring" src="https://img.shields.io/badge/Spring-be9971?style=for-the-badge&logo=spring&logoColor=black" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-be9971?style=for-the-badge&logo=postgresql&logoColor=black" />
   <img alt="RabbitMQ" src="https://img.shields.io/badge/RabbitMQ-be9971?style=for-the-badge&logo=rabbitmq&logoColor=black" />
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-be9971?style=for-the-badge&logo=linux&logoColor=black" />
   <img alt="Git" src="https://img.shields.io/badge/Git-be9971?style=for-the-badge&logo=git&logoColor=black" />
 </p>
 
-**Languages:** Java, C/C++, Python, SQL, Kotlin (started)
+**Programming:** Java, TypeScript, SQL, C
 
-**Backend:** Spring, Spring Boot, JPA (Hibernate), REST, RabbitMQ, Flyway, MapStruct, Lombok, Spring AI  
+**Programming (lower knowledge level):** C++, Python, Kotlin
 
-**Testing:** JUnit, Mockito, Selenium  
+**Backend & APIs:** Spring, Spring Boot, JPA/Hibernate, REST, RabbitMQ, OAuth2
 
-**Databases:** PostgreSQL, SQLite, MongoDB (started)  
+**Databases & Data:** PostgreSQL, Flyway, Redis
 
-**Tools:** Git, GitHub, GitLab, Maven, CMake, GNU Make
+**Testing:** JUnit, Mockito, Node.js Test Runner, Selenium
 
-**CS/Design:** UML, design patterns, algorithms, distributed systems, networking, OpenMP  
+**Architecture & Engineering:** Software Architecture, Design Patterns, UML, Algorithms
+
+**Tools & Delivery:** Git, GitHub, GitLab, GitLab CI/CD, Maven, Yarn
 
 **Languages (Human):** Czech (native), English (fluent), Russian (fluent)
 
 ## Personal projects
+
+- **Temporary Friends website**
+  - Band website displaying music, streaming platforms, and shows
+  - https://temporaryfriends.fun/
+  [![GitHub Repo](https://img.shields.io/badge/GitHub-temps_site-be9971?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GlycerolVeinz/temps_site)
 
 - **GoblinOverflow** — Java Swing/AWT + MVC  
   [![GitHub Repo](https://img.shields.io/badge/GitHub-PJV__semestral-be9971?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GlycerolVeinz/PJV_semestral/tree/master)
