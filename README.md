@@ -41,13 +41,12 @@ Software engineer with hands-on experience building production-ready software. I
 > Leading the design and implementation of TypeScript custom nodes for a low-code IAM orchestration platform.
 
 **Highlights:**
-- Built the TypeScript monorepo from the initial commit for **12 deployable bundles and ~47 node classes**.
-- Designed a layered node architecture for consistency and code reuse.
-- Built a compile-time type-safe API layer and standardized error handling.
-- Centralized OAuth2 token handling, Redis caching, and shared API infrastructure.
-- Established the testing strategy, including a unit test suite and platform test framework.
-- Built the GitLab CI/CD pipeline for building, testing, and promoting artifacts across environments.
-- Created project scaffolding and developer tooling to standardize development across the team.
+- Built the TypeScript monorepo on top of a proprietary third-party base, reverse-engineering its behavior to create a maintainable foundation for custom nodes.
+- Designed a layered node architecture to make new nodes easy to extend, difficult to misuse, and consistent across services.
+- Built a compile-time type-safe API layer so invalid endpoint paths, parameters, and response types are caught before runtime.
+- Standardized API errors and graceful failure handling so platform nodes expose consistent, predictable error routes.
+- Made an otherwise untestable codebase testable by mocking the proprietary base and building both a unit-test setup and platform test framework.
+- Defined the project structure and built scaffolding and developer tooling so new teams can extend the system without reinventing its conventions.
 
 ### Java Backend Developer — Etyka Digital
 [![etyka.cz](https://img.shields.io/badge/etyka.cz-Visit-be9971?style=for-the-badge)](https://etyka.cz/) 
@@ -106,7 +105,7 @@ Software engineer with hands-on experience building production-ready software. I
 
 **Programming:** Java, TypeScript, SQL, C
 
-**Programming (lower knowledge level):** C++, Python, Kotlin
+**Languages (lower knowledge level / learning):** C++, Python, Kotlin
 
 **Backend & APIs:** Spring, Spring Boot, JPA/Hibernate, REST, RabbitMQ, OAuth2
 
